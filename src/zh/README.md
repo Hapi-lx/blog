@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /logo.svg
+heroImage: /my-logo.svg
 heroText: 羊羽的笔记
 heroFullScreen: true
 tagline: 读书破万卷，下笔如有神
@@ -38,7 +38,8 @@ projects:
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 自定义你的页脚文字
+footer: <a href="https://github.com/Mister-Hope">Mr.Hope</a>
+copyright: false
 ---
 
 这是一个博客主页的案例。
